@@ -75,5 +75,3 @@ function megaFriend(friends) {
     }
     return largestName;
 }
-
-
